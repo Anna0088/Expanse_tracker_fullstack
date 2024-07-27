@@ -10,12 +10,12 @@ User-friendly UI with responsive design
 Real-time updates
 ## Project Structure
 # Frontend
-src/components/: Reusable UI components
-src/contexts/: Context API for state management
-src/layouts/: Layout components
-src/styles/: Global styles
+src/components/: Reusable UI components <br>
+src/contexts/: Context API for state management<br>
+src/layouts/: Layout components<br>
+src/styles/: Global styles<br>
 # Backend
-src/controllers/: Handle business logic
-src/models/: Database schemas
-src/routes/: API endpoints
-src/db/: Database connection setup
+src/controllers/: Handle business logic<br>
+src/models/: Database schemas<br>
+src/routes/: API endpoints<br>
+src/db/: Database connection setup<br>
